@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="ScrabbleTiles.png">
+	<!-- Created with Adobe Animate version 15.2.1.95 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="double_letter" x="53" y="53" width="52" height="52" pivotX="26" pivotY="26"/>
+	<SubTexture name="double_word" x="1" y="1" width="52" height="52" pivotX="26" pivotY="26"/>
+	<SubTexture name="empty_square" x="1" y="53" width="52" height="52" pivotX="26" pivotY="26"/>
+	<SubTexture name="start_square" x="53" y="1" width="52" height="52" pivotX="26" pivotY="26"/>
+	<SubTexture name="triple_word" x="53" y="105" width="52" height="52" pivotX="26" pivotY="26"/>
+	<SubTexture name="tripple_letter" x="1" y="105" width="52" height="52" pivotX="26" pivotY="26"/>
+</TextureAtlas>
